@@ -1,4 +1,4 @@
-package guru.springframework.reactiveexamples;
+package acs.springframework.reactiveexamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

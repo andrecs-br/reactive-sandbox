@@ -2,6 +2,9 @@ package guru.springframework.reactiveexamples;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
+
+import acs.springframework.reactiveexamples.Person;
+import acs.springframework.reactiveexamples.PersonCommand;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
